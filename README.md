@@ -96,12 +96,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <tr>
     <td><b>Additional Tools</b></td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack"  width="90" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack"  width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp"  width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure"  width="90" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure"  width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome"  width="90" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack"  width="100" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack"  width="50" height="50"/>&nbsp;
     </td>
   </tr>
 </table>
