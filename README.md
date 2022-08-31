@@ -108,24 +108,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deeppanara&theme=dark&background=000000)](https://github.com/deeppanara)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&layout=compact&theme=vision-friendly-dark)](https://github.com/deeppanara)
-
-[![Top stats](https://github-readme-stats.vercel.app/api?username=deeppanara&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/deeppanara)
+<p align='center'>
+  <a href="https://github.com/deeppanara">
+    <img height=150 src="http://github-readme-streak-stats.herokuapp.com?user=deeppanara&theme=dark&background=000000"/>
+  </a>
+  <a href="https://github.com/deeppanara">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&layout=compact&theme=vision-friendly-dark"/>
+  </a>
+</p>
 ---
 
-<!--
-**HappyCoding999/HappyCoding999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
