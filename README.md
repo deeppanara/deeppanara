@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
   </tr>
   <tr>
-    <td><b>Sql/NoSql</b></td>
+    <td><b>Database</b></td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="50"/>&nbsp;
       <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" title="mariadb" alt="mariadb"  width="50" height="50"/>&nbsp;
