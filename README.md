@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Also working on React Native mobile application development.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge]()](https://in.linkedin.com/in/deep-panara-dp)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/deep-panara-dp)
 )
 
 ---
@@ -28,11 +28,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deeppanara&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deeppanara&theme=dark&background=000000)](https://github.com/deeppanara)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&layout=compact&theme=vision-friendly-dark)](https://github.com/deeppanara)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&hide=JavaScript,css&theme=vision-friendly-dark&layout=compact)
+[![Top stats](https://github-readme-stats.vercel.app/api?username=deeppanara&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/deeppanara)
 ---
 
 <!--
