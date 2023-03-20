@@ -29,6 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" title="mariadb" alt="mariadb"  width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb"  width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite"  width="70" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="sqlite" alt="postgresql"  width="50" height="50"/>&nbsp;
     </td>
   </tr>
   <tr>
@@ -82,7 +83,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <td><b>JavaScript Framework</b></td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="NodeJS" alt="express" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="vuejs" alt="nestjs" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="vuejs" alt="react" width="50" height="50"/>&nbsp;
     </td>
   </tr>
   <tr>
