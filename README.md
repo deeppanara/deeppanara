@@ -119,7 +119,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img height=150 src="http://github-readme-streak-stats.herokuapp.com?user=deeppanara&theme=dark&background=000000"/>
   </a>
   <a href="https://github.com/deeppanara">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&hide=css&theme=vision-friendly-dark&layout=compact&langs_count=10"/>
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeppanara&&hide=javascript,html,css&theme=vision-friendly-dark&layout=compact&langs_count=10"/>
   </a>
 </p>
 
